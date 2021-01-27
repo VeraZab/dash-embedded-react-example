@@ -1,0 +1,6 @@
+--extra-index-url=https://core-dev.plotly.host/Docs/packages
+dash-design-kit==1.6.0
+dash-embedded==1.3.0
+dash==1.19.0
+gunicorn==20.0.4
+pandas==1.1.4
